@@ -40,19 +40,19 @@ The project implements several pricing methods for derivative products under the
 
 ### Black-Scholes Price Evolution
 
-![Black-Scholes Price](plots/european_options/bs_price_vs_spot.png)
+![Black-Scholes Price](plots/european_options/call_price_vs_spot.png)
 
 
 ### Delta
 
-![Delta](plots/european_options/delta_vs_spot.png)
+![Delta](plots/european_options/call_delta_vs_spot.png)
 
 
 
 
 ### Monte Carlo Convergence
 
-![Monte Carlo Convergence](plots/european_options/mc_convergence_zoom.png)
+![Monte Carlo Convergence](plots/european_options/mc_convergence_full.png)
 
 ### European vs Asian Option Pricing
 
